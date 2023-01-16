@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SBkm08
-- 👀 I’m interested in ...video/photo editing and data analysis
-- 🌱 I’m currently learning ...data analyst
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Shubhankar Mehra
+- 👀 I’m interested in ...data analysis having experience of video/photo editing 
+- 🌱 I’m currently learning ...SQL, Snowflake, github, powerBI, Tableu
+- 💞️ I’m looking to collaborate on ...Data analysis, managemnet, visualisation and presentaiton.
 - 📫 How to reach me sbkm08@gmail.com
 
 <!---
